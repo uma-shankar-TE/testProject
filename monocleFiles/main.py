@@ -1,1 +1,2 @@
-print("Hello Monocle from testProject!")
+from test.test import welcome
+welcome()
